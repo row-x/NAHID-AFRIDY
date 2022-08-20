@@ -4,7 +4,7 @@
 <h1 align=center>WELCOME TO NAHID AFRIDY WORLD</h1>
 
 <p align="center">
-<img src='NAHID/coding.gif' style="height:600px;width:600px;" >
+<img src='NAHID/coding.gif' style="height:600px;width:300px;" >
 </p>
 <h1 align=center>PROGRAMMING STYLES NAHID AFRIDY👑</h1>
 
