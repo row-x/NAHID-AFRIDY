@@ -34,13 +34,12 @@
 <br/><br/>
 </p>
 
-## FACEBOOK ACCOUNT <img src='NAHID/download.jpeg' style="height:30px;width:30px;" >
+## FACEBOOK <img src='NAHID/download.jpeg' style="height:30px;width:30px;" >
 
 
-## WHAT'SAPP ACCOUNT <img src='NAHID/do.jpeg' style="height:30px;width:30px;" >
+## WHAT'SAPP <img src='NAHID/do.jpeg' style="height:30px;width:30px;" >
 
 
-## TELEGRAM GROUP <img src='NAHID/download_1.png' style="height:30px;width:30px;" >
+## TELEGRAM <img src='NAHID/download_1.png' style="height:30px;width:30px;" >
 
 
-## NAHID AFRIDY.PRO <img src='NAHID/img/logon.png' style="height:30px;width:30px;" >
