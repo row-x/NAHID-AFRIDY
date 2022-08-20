@@ -1,5 +1,5 @@
 <p align="center">
-<img src='NAHID/img/logon.png' style="height:100px;width:100px;" >
+<img src='NAHID/IMG_20220820_175613_151.jpg' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>WELCOME TO NAHID AFRIDY WORLD</h1>
 
