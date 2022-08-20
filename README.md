@@ -40,7 +40,7 @@
 
 ## WHAT'SAPP <img src='NAHID/do.jpeg' style="height:30px;width:30px;" >
 
-[Click & Go To My WhatsApp](https://wa+8801923092304.com)
+[Click & Go To My WhatsApp](https://wa.me/+8801923092304?text=)
 
 ## TELEGRAM <img src='NAHID/download_1.png' style="height:30px;width:30px;" >
 
