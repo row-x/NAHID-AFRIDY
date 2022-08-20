@@ -34,6 +34,10 @@
 <br/><br/>
 </p>
 
+# My Best Fire Tools 🔥
+
+[COBRA-LINUX👑✌️](https://github.com/NAHID-AFRIDY/COBRA-LINUX)
+
 ## FACEBOOK <img src='NAHID/download.jpeg' style="height:30px;width:30px;" >
 
 [Click & Go To My Facebook](https://www.facebook.com/ERR0RS)
