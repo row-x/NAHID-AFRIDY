@@ -40,8 +40,9 @@
 
 ## WHAT'SAPP <img src='NAHID/do.jpeg' style="height:30px;width:30px;" >
 
-[Click & Go To My WhatsApp]('am start https://wa.me/+8801923092304?text=')
+[Click & Go To My WhatsApp](https://wa.me/+8801923092304?text=)
+[My Number +8801923092304]
 
 ## TELEGRAM <img src='NAHID/download_1.png' style="height:30px;width:30px;" >
 
-
+[Click & Go To My TELEGRAM](https://t.me/nahid_afridi)
