@@ -1,7 +1,7 @@
 <p align="center">
 <img src='NAHID/img/logon.png' style="height:100px;width:100px;" >
 </p>
-<h1 align=center>NAHID AFRIDY.PRO</h1>
+<h1 align=center>WELCOME TO NAHID AFRIDY WORLD</h1>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/NAHID-AFRIDY"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=NAHID-AFRIDY&theme=monokai"></a>
