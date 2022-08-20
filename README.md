@@ -36,10 +36,11 @@
 
 ## FACEBOOK <img src='NAHID/download.jpeg' style="height:30px;width:30px;" >
 
-[Click & Go To My Account](https://www.facebook.com/ERR0RS)
+[Click & Go To My Facebook](https://www.facebook.com/ERR0RS)
 
 ## WHAT'SAPP <img src='NAHID/do.jpeg' style="height:30px;width:30px;" >
 
+[Click & Go To My WhatsApp](https://wa+8801923092304.com)
 
 ## TELEGRAM <img src='NAHID/download_1.png' style="height:30px;width:30px;" >
 
